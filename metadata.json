@@ -1,0 +1,6 @@
+{
+  "name": "Sổ Quản Lý Chi Tiêu & Tiết Kiệm",
+  "description": "Ứng dụng quản lý tài chính cá nhân trực quan: phân loại chi tiêu với biểu đồ tương tác, thiết lập ngân sách theo danh mục và theo dõi mục tiêu tiết kiệm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
